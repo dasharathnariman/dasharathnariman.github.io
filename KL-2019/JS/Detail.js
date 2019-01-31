@@ -47,6 +47,7 @@ $(document).ready(function() {
 		],
 		"paging":   false,
 		"info":     false,
-		"searching": false
+		"searching": false,
+		"ordering": false
 	});
 } );
