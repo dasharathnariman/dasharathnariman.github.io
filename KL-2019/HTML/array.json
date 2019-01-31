@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"no": "1",
+			"constituency": "Kasaragod",
+			"nda": "39.20%",
+			"nda_swing": "21.00%",
+			"udf": "25.74%",
+			"udf_swing": "-11%",
+			"ldf": "33.60%",
+			"ldf_swing": "-10%",
+			"winner": "NDA",
+			"margin": "5.60%",
+			"neutral_nda":"KKK",
+			"neutral_udf":"OOO"
+		},
+		{
+			"no": "2",
+			"constituency": "Kasaragod",
+			"nda": "39.20%",
+			"nda_swing": "21.00%",
+			"udf": "25.74%",
+			"udf_swing": "-11%",
+			"ldf": "33.60%",
+			"ldf_swing": "-10%",
+			"winner": "NDA",
+			"margin": "5.60%",
+			"neutral_nda":"KKK",
+			"neutral_udf":"OOO"
+		}
+	]
+}
