@@ -83,8 +83,6 @@ $(document).ready(function() {
 		"paging":   false,
 		"info":     false,
 		"searching": false,
-		"ordering": false,
-		"dom": '<"toolbar">frtip'
+		"ordering": false
 	});
-	$("div.toolbar").html('<p class = "h3 p-2 text-center">Kasargode 2019 Prediction</p>');
 } );
